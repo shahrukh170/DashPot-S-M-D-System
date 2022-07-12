@@ -45,3 +45,6 @@ Your report should give sensible conclusions based on the data gathered and atte
 Python,C++,Java,Javascript,CSS,React-Native,ReactJS
 
 The script successfully achieve the objective in the document file attached above!
+
+for live testing click the following link
+https://replit.com/@ShahrukhShah/DashPot-S-M-D-System#main.py
